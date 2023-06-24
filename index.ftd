@@ -13,10 +13,10 @@ height.fixed.px: 740
 align-content: center
 
 
--- player: AJIT GARG
+-- player: HARSHIKA SHARMA
 dp: $assets.files.assets.WhatsApp%20Image%202023-06-24%20at%204.32.29%20PM.jpeg
 
-I am DevRel at FifthTry.
+I am student at BBDNIIT and an entrepreneur.
 
 -- ftd.column:
 spacing.fixed.px: 10
@@ -24,10 +24,10 @@ margin-top.px: 60
 width: fill-container
 
 -- button: LinkedIn
-link: https://www.linkedin.com/in/ajit-garg-319167190/
+link: https://www.linkedin.com/in/harshika-sharma-172ab11b1/
 
 -- button: Instagram
-
+link: 
 -- button: Facebook
 
 -- button: Twitter
